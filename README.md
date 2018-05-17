@@ -16,7 +16,7 @@ and you should get:
 [info] Done compiling.
 [info] HelloSpec:
 [info] TF
-[info] - should crush on cross test
+[info] - should crash on cross test
 [info] Run completed in 1 second, 132 milliseconds.
 [info] Total number of tests run: 1
 [info] Suites: completed 1, aborted 0
